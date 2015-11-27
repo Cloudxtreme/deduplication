@@ -4,8 +4,6 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>buildfile.h</itemPath>
-      <itemPath>dedupcontainer.h</itemPath>
       <itemPath>md5.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -15,8 +13,6 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>buildfile.cpp</itemPath>
-      <itemPath>dedupcontainer.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
       <itemPath>md5.cpp</itemPath>
     </logicalFolder>
@@ -42,14 +38,6 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="buildfile.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="buildfile.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="dedupcontainer.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="dedupcontainer.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="md5.cpp" ex="false" tool="1" flavor2="0">
@@ -77,14 +65,6 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="buildfile.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="buildfile.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="dedupcontainer.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="dedupcontainer.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="md5.cpp" ex="false" tool="1" flavor2="0">
